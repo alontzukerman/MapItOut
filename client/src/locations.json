@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Tel Aviv",
+        "loc": {
+            "lat": 32.08,
+            "lng": 34.78
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jerusalem",
+        "loc": {
+            "lat": 31.76,
+            "lng": 35.21
+        }
+    },
+    {
+        "id": 3,
+        "name": "Rishon Lezion",
+        "loc": {
+            "lat": 31.97,
+            "lng": 34.78
+        }
+    },
+    {
+        "id": 4,
+        "name": "Beer Sheva",
+        "loc": {
+            "lat": 31.25,
+            "lng": 34.78
+        }
+    },
+    {
+        "id": 5,
+        "name": "Modiin-Maccabim-Reut",
+        "loc": {
+            "lat": 31.89,
+            "lng": 35.01
+        }
+    },
+    {
+        "id": 6,
+        "name": "Haifa",
+        "loc": {
+            "lat": 32.79,
+            "lng": 34.99
+        }
+    },
+    {
+        "id": 7,
+        "name": "Eilat",
+        "loc": {
+            "lat": 29.56,
+            "lng": 34.94
+        }
+    },
+    {
+        "id": 8,
+        "name": "Rehovot",
+        "loc": {
+            "lat": 31.89,
+            "lng": 34.81
+        }
+    },
+    {
+        "id": 9,
+        "name": "Herzelia",
+        "loc": {
+            "lat": 32.16,
+            "lng": 34.84
+        }
+    },
+    {
+        "id": 10,
+        "name": "Ashkelon",
+        "loc": {
+            "lat": 31.67,
+            "lng": 34.57
+        }
+    }
+]
